@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="https://www.w3.org/2005/Atom">
  <id>urn:iweb:D03BAEE4-D054-48B2-AB31-4F3DC9FD14E1</id>
  <title>Page list Atom feed</title>
  <updated>2014-07-03T18:24:20-05:00</updated>
