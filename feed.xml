@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:D03BAEE4-D054-48B2-AB31-4F3DC9FD14E1</id>
+ <title>Page list Atom feed</title>
+ <updated>2014-07-03T18:24:20-05:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:6CDBEBF3-9A56-4ECE-98AB-AE664D46F484</id>
+  <title>Welcome</title>
+  <title xmlns="urn:iweb:">Welcome</title>
+  <in-navbar xmlns="urn:iweb:">6CDBEBF3-9A56-4ECE-98AB-AE664D46F484</in-navbar>
+  <link rel="alternate" href="Welcome.html"/>
+  <updated>2014-07-03T18:24:20.001-05:00</updated>
+  <content>Welcome</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:2ED0CB46-F788-4ADA-9CEB-47630720D24E</id>
+  <title>Publisher's Message</title>
+  <title xmlns="urn:iweb:">Publisher's Message</title>
+  <in-navbar xmlns="urn:iweb:">2ED0CB46-F788-4ADA-9CEB-47630720D24E</in-navbar>
+  <link rel="alternate" href="Publishers_Message.html"/>
+  <updated>2014-07-03T18:24:20.002-05:00</updated>
+  <content>Publisher's Message</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:EC4EE224-6061-4706-BF4E-CF7B1DDE06C3</id>
+  <title>Books</title>
+  <title xmlns="urn:iweb:">Books</title>
+  <in-navbar xmlns="urn:iweb:">EC4EE224-6061-4706-BF4E-CF7B1DDE06C3</in-navbar>
+  <link rel="alternate" href="Books.html"/>
+  <updated>2014-07-03T18:24:20.003-05:00</updated>
+  <content>Books</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:FAC47AEB-D2B8-4656-86F1-0C9B2B0726AE</id>
+  <title>News</title>
+  <title xmlns="urn:iweb:">News</title>
+  <in-navbar xmlns="urn:iweb:">FAC47AEB-D2B8-4656-86F1-0C9B2B0726AE</in-navbar>
+  <link rel="alternate" href="News.html"/>
+  <updated>2014-07-03T18:24:20.004-05:00</updated>
+  <content>News</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:0C19D27D-AEC1-41D6-A62C-88C9F9249E59</id>
+  <title>Contact</title>
+  <title xmlns="urn:iweb:">Contact</title>
+  <in-navbar xmlns="urn:iweb:">0C19D27D-AEC1-41D6-A62C-88C9F9249E59</in-navbar>
+  <link rel="alternate" href="Contact.html"/>
+  <updated>2014-07-03T18:24:20.005-05:00</updated>
+  <content>Contact</content>
+ </entry>
+</feed>
